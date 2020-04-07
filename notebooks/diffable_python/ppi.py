@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-
+# The folllowing notebook has Snomed/[NHS Dictionary of Medicines and Devices](https://ebmdatalab.net/what-is-the-dmd-the-nhs-dictionary-of-medicines-and-devices/) codes for proton pump inhibitors.
 
 from ebmdatalab import bq
 import os
