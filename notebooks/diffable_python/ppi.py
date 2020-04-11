@@ -22,8 +22,13 @@ import pandas as pd
 
 # +
 sql = '''WITH bnf_codes AS (
- SELECT bnf_code FROM hscic.presentation WHERE 
-    bnf_code LIKE '0103050%' #BNF ppi section
+ SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
+    bnf_code LIKE '0103050%'          #BNF ppi section
+    AND 
+    form_route LIKE '%.oral%'     
+    AND
+    (bnf_code NOT LIKE '0103050A0BB%' OR #heliclear
+     bnf_code NOT LIKE '0103050A0BC%')     #helimet
   )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -43,5 +48,4 @@ pd.set_option('display.max_rows', None)
 ppi_codelist
 # -
 
-# q - do we exclude IVs? 
-# Remove generic heliclear when tidying (hasn't been Rx but just for completeness)
+

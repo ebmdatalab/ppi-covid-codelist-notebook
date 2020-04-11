@@ -1,6 +1,4 @@
 type,id,bnf_code,nm
-amp,888511000001108,0103050A0BBAAAA,HeliClear (Wyeth Pharmaceuticals)
-amp,3944411000001105,0103050A0BCAAAB,HeliMet (Wyeth Pharmaceuticals)
 amp,19629111000001102,0103050E0AAAAAA,Esomeprazole 20mg gastro-resistant tablets (Teva UK Ltd)
 amp,19675711000001104,0103050E0AAAAAA,Esomeprazole 20mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
 amp,20101411000001102,0103050E0AAAAAA,Esomeprazole 20mg gastro-resistant tablets (Ranbaxy (UK) Ltd)
@@ -36,9 +34,6 @@ amp,36379611000001106,0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets
 amp,36855411000001105,0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets (Torrent Pharma (UK) Ltd)
 amp,37064211000001100,0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)
 amp,37211111000001103,0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets (NorthStar Healthcare Unlimited Company)
-amp,20372111000001102,0103050E0AAACAC,Esomeprazole 40mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
-amp,20552311000001104,0103050E0AAACAC,Esomeprazole 40mg powder for solution for injection vials (Sun Pharmaceutical Industries Europe B.V.)
-amp,34752611000001109,0103050E0AAACAC,Esomeprazole 40mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
 amp,16041511000001105,0103050E0AAADAD,Esomeprazole 40mg/5ml oral suspension (Special Order)
 amp,19468611000001109,0103050E0AAAFAF,Esomeprazole 20mg gastro-resistant capsules (Mylan)
 amp,19669111000001105,0103050E0AAAFAF,Esomeprazole 20mg gastro-resistant capsules (A A H Pharmaceuticals Ltd)
@@ -61,7 +56,6 @@ amp,29869111000001103,0103050E0AAAGAG,Esomeprazole 40mg gastro-resistant capsule
 amp,33694311000001109,0103050E0AAAGAG,Esomeprazole 40mg gastro-resistant capsules (Aristo Pharma Ltd)
 amp,154111000001106,0103050E0BBAAAA,Nexium 20mg gastro-resistant tablets (AstraZeneca UK Ltd)
 amp,240211000001107,0103050E0BBABAB,Nexium 40mg gastro-resistant tablets (AstraZeneca UK Ltd)
-amp,7320811000001104,0103050E0BBACAC,Nexium I.V 40mg powder for solution for injection vials (AstraZeneca UK Ltd)
 amp,16116611000001103,0103050E0BBADAE,Nexium 10mg gastro-resistant granules sachets (AstraZeneca UK Ltd)
 amp,22380011000001104,0103050E0BBAEAA,Nexium 20mg gastro-resistant tablets (Arrow Generics Ltd)
 amp,22380211000001109,0103050E0BBAFAB,Nexium 40mg gastro-resistant tablets (Arrow Generics Ltd)
@@ -158,23 +152,13 @@ amp,14782511000001100,0103050L0AAANAN,Lansoprazole 7.5mg/5ml oral suspension (Sp
 amp,15635911000001106,0103050L0AAAPAP,Lansoprazole 4mg/5ml oral solution (Special Order)
 amp,15636211000001108,0103050L0AAAPAP,Lansoprazole 4mg/5ml oral suspension (Special Order)
 amp,13821111000001106,0103050L0AAAQAQ,Lansoprazole 5mg/5ml oral solution (Special Order)
-amp,14707311000001107,0103050L0AAARAR,Lansoprazole 10mg oral powder sachets (Special Order)
 amp,15528511000001102,0103050L0AAASAS,Lansoprazole 20mg/5ml oral solution (Special Order)
 amp,15528811000001104,0103050L0AAASAS,Lansoprazole 20mg/5ml oral suspension (Special Order)
-amp,15532011000001105,0103050L0AAATAT,Lansoprazole 40mg/5ml oral solution (Special Order)
-amp,15532811000001104,0103050L0AAATAT,Lansoprazole 40mg/5ml oral suspension (Special Order)
-amp,16023711000001102,0103050L0AAAUAU,Lansoprazole 11mg/5ml oral solution (Special Order)
-amp,16025711000001101,0103050L0AAAUAU,Lansoprazole 11mg/5ml oral suspension (Special Order)
-amp,16107011000001105,0103050L0AAAVAV,Lansoprazole 22mg/5ml oral solution (Special Order)
-amp,16107311000001108,0103050L0AAAVAV,Lansoprazole 22mg/5ml oral suspension (Special Order)
 amp,29578511000001106,0103050L0AAAWAW,Lansoprazole 50mg/5ml oral suspension (Special Order)
 amp,15619411000001109,0103050L0AAAXAX,Lansoprazole 15mg/5ml oral suspension (Drug Tariff Special Order)
 amp,13985011000001109,0103050L0AAAYAY,Lansoprazole 30mg/5ml oral suspension (Drug Tariff Special Order)
 amp,13820811000001107,0103050L0AAAZAZ,Lansoprazole 5mg/5ml oral suspension (Drug Tariff Special Order)
-amp,32875011000001102,0103050L0AABABA,Lansoprazole 22.5mg/5ml oral suspension (Special Order)
-amp,34651511000001108,0103050L0AABBBB,Lansoprazole 15mg oral powder sachets (Special Order)
 amp,35603211000001108,0103050L0AABCBC,Lansoprazole 8mg/5ml oral suspension (Special Order)
-amp,36878011000001106,0103050L0AABDBD,Lansoprazole 3.75mg/5ml oral solution (Special Order)
 amp,217611000001102,0103050L0BBAAAA,Zoton 30mg gastro-resistant capsules (Wyeth Pharmaceuticals)
 amp,29411000001106,0103050L0BBABAB,Zoton 15mg gastro-resistant capsules (Wyeth Pharmaceuticals)
 amp,3261211000001101,0103050L0BBACAD,Zoton 30mg gastro-resistant granules sachets (Wyeth Pharmaceuticals)
@@ -273,12 +257,6 @@ amp,12963111000001104,0103050P0AAARAR,Omeprazole 25mg/5ml oral suspension (Speci
 amp,12965311000001101,0103050P0AAARAR,Omeprazole 25mg/5ml oral solution (Special Order)
 amp,12970611000001106,0103050P0AAASAS,Omeprazole 4mg/5ml oral suspension (Special Order)
 amp,12971511000001100,0103050P0AAASAS,Omeprazole 4mg/5ml oral solution (Special Order)
-amp,11144411000001102,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (PLIVA Pharma Ltd)
-amp,11535811000001107,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (A A H Pharmaceuticals Ltd)
-amp,15028911000001107,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (Teva UK Ltd)
-amp,31685111000001103,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (Sandoz Ltd)
-amp,34754811000001102,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (Bowmed Ibisqus Ltd)
-amp,35775411000001106,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials (Mylan)
 amp,12974811000001100,0103050P0AAAWAW,Omeprazole 50mg/5ml oral suspension (Special Order)
 amp,12975411000001101,0103050P0AAAWAW,Omeprazole 50mg/5ml oral solution (Special Order)
 amp,12960911000001109,0103050P0AAAXAX,Omeprazole 15.5mg/5ml oral suspension (Special Order)
@@ -354,18 +332,13 @@ amp,12969411000001106,0103050P0AABPBP,Omeprazole 40mg/5ml oral suspension (Drug 
 amp,32707511000001105,0103050P0AABQBQ,Omeprazole 7mg/5ml oral suspension (Special Order)
 amp,34675111000001104,0103050P0AABRBR,Omeprazole 3.5mg/5ml oral suspension (Special Order)
 amp,34675411000001109,0103050P0AABSBS,Omeprazole 5mg/5ml oral solution (Special Order)
-amp,36771511000001105,0103050P0AABTBT,Omeprazole 30mg/5ml oral suspension (Special Order)
 amp,923011000001105,0103050P0BBAAAA,Losec 20mg gastro-resistant capsules (AstraZeneca UK Ltd)
 amp,935511000001100,0103050P0BBABAE,Losec 40mg gastro-resistant capsules (AstraZeneca UK Ltd)
 amp,64411000001103,0103050P0BBACAF,Losec 10mg gastro-resistant capsules (AstraZeneca UK Ltd)
 amp,749811000001106,0103050P0BBADAM,Losec MUPS 10mg gastro-resistant tablets (AstraZeneca UK Ltd)
 amp,427311000001104,0103050P0BBAEAN,Losec MUPS 20mg gastro-resistant tablets (AstraZeneca UK Ltd)
 amp,691311000001102,0103050P0BBAFAP,Losec MUPS 40mg gastro-resistant tablets (AstraZeneca UK Ltd)
-amp,4370611000001108,0103050P0BBAGAV,Losec Infusion 40mg powder for solution for infusion vials (AstraZeneca UK Ltd)
-amp,9832811000001108,0103050P0BBAHBG,Losec I.V. 40mg powder and solvent for solution for injection vials (AstraZeneca UK Ltd)
-amp,3632811000001101,0103050P0BDAABC,Omeran 10mg gastro-resistant tablets (Ranbaxy (UK) Ltd)
 amp,3633211000001108,0103050P0BDABBD,Omeran 20mg gastro-resistant tablets (Ranbaxy (UK) Ltd)
-amp,3633611000001105,0103050P0BDACBE,Omeran 40mg gastro-resistant tablets (Ranbaxy (UK) Ltd)
 amp,7316211000001108,0103050P0BEAABC,Zanprol 10mg gastro-resistant tablets (Omega Pharma Ltd)
 amp,10820511000001105,0103050P0BFAAAF,Mepradec 10mg gastro-resistant capsules (Dexcel-Pharma Ltd)
 amp,10820111000001101,0103050P0BFABAA,Mepradec 20mg gastro-resistant capsules (Dexcel-Pharma Ltd)
@@ -423,18 +396,9 @@ amp,32442111000001104,0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets
 amp,32492411000001104,0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets (Brown & Burk UK Ltd)
 amp,35174611000001102,0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets (Milpharm Ltd)
 amp,36819911000001106,0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets (Torrent Pharma (UK) Ltd)
-amp,18165811000001102,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Actavis UK Ltd)
-amp,18276611000001102,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (A A H Pharmaceuticals Ltd)
-amp,19720111000001100,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Martindale Pharmaceuticals Ltd)
-amp,21507211000001106,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Sun Pharmaceutical Industries Europe B.V.)
-amp,24014611000001108,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Sandoz Ltd)
-amp,34755011000001107,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Bowmed Ibisqus Ltd)
-amp,36868311000001103,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials (Reig Jofre UK Ltd)
 amp,18516611000001104,0103050R0AAAEAE,Pantoprazole 20mg/5ml oral suspension (Special Order)
-amp,18516911000001105,0103050R0AAAFAF,Pantoprazole 40mg/5ml oral suspension (Special Order)
 amp,922011000001101,0103050R0BBAAAA,Protium 40mg gastro-resistant tablets (Nycomed UK Ltd)
 amp,160711000001109,0103050R0BBABAB,Protium 20mg gastro-resistant tablets (Nycomed UK Ltd)
-amp,540211000001102,0103050R0BBACAC,Protium I.V. 40mg powder for solution for injection vials (Takeda UK Ltd)
 amp,17011211000001100,0103050R0BCAAAB,Pantoloc Control 20mg gastro-resistant tablets (GlaxoSmithKline Consumer Healthcare)
 amp,21548611000001100,0103050T0AAAAAA,Rabeprazole 10mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
 amp,21553411000001106,0103050T0AAAAAA,Rabeprazole 10mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)
@@ -471,11 +435,8 @@ amp,36828311000001108,0103050T0AAABAB,Rabeprazole 20mg gastro-resistant tablets 
 amp,37137611000001105,0103050T0AAABAB,Rabeprazole 20mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)
 amp,228611000001109,0103050T0BBAAAA,Pariet 10mg gastro-resistant tablets (Eisai Ltd)
 amp,43811000001108,0103050T0BBABAB,Pariet 20mg gastro-resistant tablets (Eisai Ltd)
-vmp,36062111000001102,0103050A0AAAAAA,Generic HeliClear
-vmp,3948411000001101,0103050A0AAABAB,Generic HeliMet
 vmp,317335000,0103050E0AAAAAA,Esomeprazole 20mg gastro-resistant tablets
 vmp,317334001,0103050E0AAABAB,Esomeprazole 40mg gastro-resistant tablets
-vmp,7322511000001101,0103050E0AAACAC,Esomeprazole 40mg powder for solution for injection vials
 vmp,16074011000001103,0103050E0AAADAD,Esomeprazole 40mg/5ml oral suspension
 vmp,16132311000001103,0103050E0AAAEAE,Esomeprazole 10mg gastro-resistant granules sachets
 vmp,17631311000001107,0103050E0AAAFAF,Esomeprazole 20mg gastro-resistant capsules
@@ -498,23 +459,13 @@ vmp,14796711000001105,0103050L0AAANAN,Lansoprazole 7.5mg/5ml oral suspension
 vmp,15648911000001101,0103050L0AAAPAP,Lansoprazole 4mg/5ml oral solution
 vmp,15649011000001105,0103050L0AAAPAP,Lansoprazole 4mg/5ml oral suspension
 vmp,13821811000001104,0103050L0AAAQAQ,Lansoprazole 5mg/5ml oral solution
-vmp,14742811000001107,0103050L0AAARAR,Lansoprazole 10mg oral powder sachets
 vmp,15533911000001102,0103050L0AAASAS,Lansoprazole 20mg/5ml oral solution
 vmp,15534011000001104,0103050L0AAASAS,Lansoprazole 20mg/5ml oral suspension
-vmp,15535411000001109,0103050L0AAATAT,Lansoprazole 40mg/5ml oral solution
-vmp,15535511000001108,0103050L0AAATAT,Lansoprazole 40mg/5ml oral suspension
-vmp,16036411000001101,0103050L0AAAUAU,Lansoprazole 11mg/5ml oral solution
-vmp,16036511000001102,0103050L0AAAUAU,Lansoprazole 11mg/5ml oral suspension
-vmp,16109711000001104,0103050L0AAAVAV,Lansoprazole 22mg/5ml oral solution
-vmp,16109811000001107,0103050L0AAAVAV,Lansoprazole 22mg/5ml oral suspension
 vmp,29669711000001105,0103050L0AAAWAW,Lansoprazole 50mg/5ml oral suspension
 vmp,15632711000001100,0103050L0AAAXAX,Lansoprazole 15mg/5ml oral suspension
 vmp,14014311000001104,0103050L0AAAYAY,Lansoprazole 30mg/5ml oral suspension
 vmp,13821911000001109,0103050L0AAAZAZ,Lansoprazole 5mg/5ml oral suspension
-vmp,32877811000001103,0103050L0AABABA,Lansoprazole 22.5mg/5ml oral suspension
-vmp,34665111000001107,0103050L0AABBBB,Lansoprazole 15mg oral powder sachets
 vmp,35611111000001101,0103050L0AABCBC,Lansoprazole 8mg/5ml oral suspension
-vmp,36904011000001103,0103050L0AABDBD,Lansoprazole 3.75mg/5ml oral solution
 vmp,317291008,0103050P0AAAAAA,Omeprazole 20mg gastro-resistant capsules
 vmp,317295004,0103050P0AAAEAE,Omeprazole 40mg gastro-resistant capsules
 vmp,317297007,0103050P0AAAFAF,Omeprazole 10mg gastro-resistant capsules
@@ -529,7 +480,6 @@ vmp,13001211000001109,0103050P0AAARAR,Omeprazole 25mg/5ml oral solution
 vmp,13001311000001101,0103050P0AAARAR,Omeprazole 25mg/5ml oral suspension
 vmp,13002011000001107,0103050P0AAASAS,Omeprazole 4mg/5ml oral solution
 vmp,13002111000001108,0103050P0AAASAS,Omeprazole 4mg/5ml oral suspension
-vmp,36022311000001109,0103050P0AAAVAV,Omeprazole 40mg powder for solution for infusion vials
 vmp,13002411000001103,0103050P0AAAWAW,Omeprazole 50mg/5ml oral solution
 vmp,13002511000001104,0103050P0AAAWAW,Omeprazole 50mg/5ml oral suspension
 vmp,13001011000001104,0103050P0AAAXAX,Omeprazole 15.5mg/5ml oral solution
@@ -547,7 +497,6 @@ vmp,407847009,0103050P0AABDBD,Omeprazole 20mg gastro-resistant tablets
 vmp,407848004,0103050P0AABEBE,Omeprazole 40mg gastro-resistant tablets
 vmp,13001611000001106,0103050P0AABFBF,Omeprazole 3mg/5ml oral solution
 vmp,13001711000001102,0103050P0AABFBF,Omeprazole 3mg/5ml oral suspension
-vmp,36022211000001101,0103050P0AABGBG,Omeprazole 40mg powder and solvent for solution for injection vials
 vmp,14159911000001103,0103050P0AABHBH,Omeprazole 15mg/5ml oral solution
 vmp,14160011000001101,0103050P0AABHBH,Omeprazole 15mg/5ml oral suspension
 vmp,15437511000001105,0103050P0AABIBI,Omeprazole 35mg/5ml oral solution
@@ -563,11 +512,8 @@ vmp,13001911000001100,0103050P0AABPBP,Omeprazole 40mg/5ml oral suspension
 vmp,32750211000001103,0103050P0AABQBQ,Omeprazole 7mg/5ml oral suspension
 vmp,34683711000001105,0103050P0AABRBR,Omeprazole 3.5mg/5ml oral suspension
 vmp,34683811000001102,0103050P0AABSBS,Omeprazole 5mg/5ml oral solution
-vmp,36775611000001107,0103050P0AABTBT,Omeprazole 30mg/5ml oral suspension
 vmp,317318004,0103050R0AAAAAA,Pantoprazole 40mg gastro-resistant tablets
 vmp,317322009,0103050R0AAABAB,Pantoprazole 20mg gastro-resistant tablets
-vmp,317320001,0103050R0AAACAC,Pantoprazole 40mg powder for solution for injection vials
 vmp,18520011000001104,0103050R0AAAEAE,Pantoprazole 20mg/5ml oral suspension
-vmp,18520111000001103,0103050R0AAAFAF,Pantoprazole 40mg/5ml oral suspension
 vmp,317324005,0103050T0AAAAAA,Rabeprazole 10mg gastro-resistant tablets
 vmp,317325006,0103050T0AAABAB,Rabeprazole 20mg gastro-resistant tablets
