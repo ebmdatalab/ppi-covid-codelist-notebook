@@ -14,7 +14,7 @@
 #     name: python3
 # ---
 
-# The folllowing notebook has Snomed/[NHS Dictionary of Medicines and Devices](https://ebmdatalab.net/what-is-the-dmd-the-nhs-dictionary-of-medicines-and-devices/) codes for proton pump inhibitors.
+# The folllowing notebook has Snomed/[NHS Dictionary of Medicines and Devices](https://ebmdatalab.net/what-is-the-dmd-the-nhs-dictionary-of-medicines-and-devices/) codes for oral proton pump inhibitors.
 
 from ebmdatalab import bq
 import os
@@ -46,6 +46,3 @@ ORDER BY type, bnf_code, id'''
 ppi_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','ppi_codelist.csv'))
 pd.set_option('display.max_rows', None)
 ppi_codelist
-# -
-
-
